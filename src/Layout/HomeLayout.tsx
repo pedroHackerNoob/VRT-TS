@@ -17,10 +17,10 @@ export default function HomeLayout() {
             <div>
                 <Outlet/>
             </div>
-            <footer className='grid'>
+            <footer className='grid gap-2 border-t-1'>
                 {<FooterNavComponent></FooterNavComponent>}
-                <div className='grid justify-items-center'>
-                    <h3>ISW 2025</h3>
+                <div className='grid font-bold justify-items-center'>
+                    <h3>SAISW 2025</h3>
                     <p>Todos los derechos reservados</p>
                 </div>
             </footer>

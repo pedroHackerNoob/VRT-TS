@@ -1,0 +1,1 @@
+export const ButtonStyle:String = "text-lg bg-blue-300 p-1\t"

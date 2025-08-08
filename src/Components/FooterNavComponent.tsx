@@ -12,7 +12,6 @@ export default function FooterNavComponent() {
     const resources =[
         {id:"terms",name: 'terminos y condiciones' , path:"#"},
         {id:"privacy",name: 'politica de privacidad' , path:"#"},
-        {id:"support",name: 'asesorias' , path:"#"},
         {id:"contact",name: 'miembros del staff' , path:"#"},
         {id:"",name: 'acerca de nosotros' , path:"#"},
         {id:"",name: 'patrocinadores' , path:"#"},

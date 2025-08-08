@@ -8,7 +8,7 @@ export default function HomeLayout() {
             <header className='grid capitalize gap-2'>
                 <div className='grid p-1 font-serif'>
                     <h1 className=' text-5xl '>SAISW</h1>
-                    <h2 className='text-3xl'>sociedad de alumnos de ingenieria en software</h2>
+                    <h2 className='text-3xl'>sociedad de alumnos de ingenieria en software.</h2>
                 </div>
                 <div className='flex justify-center md:justify-end border-y-1 p-2'>
                     {<HeaderNavComponent></HeaderNavComponent>}
